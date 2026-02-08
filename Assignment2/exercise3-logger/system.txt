@@ -1,2 +1,0 @@
-CPU: 4 | Memory: 5669040128 | Platform: win32
-CPU: 4 | Memory: 5682692096 | Platform: win32
